@@ -9,7 +9,7 @@ development:
   <<: *default
   host: db
   database: myapp_development
-  password:
+  password: password
 
 production:
   <<: *default
