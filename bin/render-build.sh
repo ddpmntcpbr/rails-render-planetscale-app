@@ -3,12 +3,6 @@
 set -o errexit
 
 bundle install
-
-echo "bundle exec rake assets:precompile"
 bundle exec rake assets:precompile
-
-echo "bundle exec rake assets:clean"
 bundle exec rake assets:clean
-
-echo "bundle exec rake db:migrate"
 bundle exec rake db:migrate
