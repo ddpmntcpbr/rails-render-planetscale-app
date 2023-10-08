@@ -1,24 +1,3 @@
-# README
+# このリポジトリは？
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+zenn [『【完全無料】Rails アプリを無料で公開しよう！ Render.com + PlanetScale デプロイ手順』](https://zenn.dev/ddpmntcpbr/articles/rails-render-planetscale) で開発例としてあげている Rails アプリです。
